@@ -1,6 +1,6 @@
 # ejercicio_json
 
-##Cine
+## Cine
 1. Lista todas las películas
 2. Contar peliculas de un director
 3. Filtrar año de una pelicula
